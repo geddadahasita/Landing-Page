@@ -1,0 +1,6 @@
+[submodule "geddadahasita/Landing-Page"]
+	path = geddadahasita/Landing-Page
+	url = https://github.com/geddadahasita/Landing-Page.git
+[submodule "Landing-Page"]
+	path = Landing-Page
+	url = https://github.com/geddadahasita/Landing-Page.git
