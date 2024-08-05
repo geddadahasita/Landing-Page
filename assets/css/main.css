@@ -25,8 +25,8 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-	display: block;}
+footer, header, hgroup, menu, nav {
+	 display: block;}
 
 body {
 	line-height: 1;
@@ -2564,13 +2564,13 @@ input, select, textarea {
 	.image {
 		border-radius: 0.25em;
 		border: 0;
-		display: inline-block;
+		/* display: inline-block; */
 		position: relative;
 	}
 
 		.image img {
 			border-radius: 0.25em;
-			display: block;
+			/* display: block; */
 		}
 
 		.image.left, .image.right {
@@ -2594,7 +2594,7 @@ input, select, textarea {
 		}
 
 		.image.fit {
-			display: block;
+			/* display: block; */
 			margin: 0 0 2em 0;
 			width: 100%;
 		}
@@ -2604,7 +2604,7 @@ input, select, textarea {
 			}
 
 		.image.main {
-			display: block;
+			/* display: block; */
 			margin: 0 0 3em 0;
 			width: 100%;
 		}
